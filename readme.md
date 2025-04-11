@@ -15,8 +15,8 @@ Cara Instalasi CI3
 Halaman Utama http://localhost/TestFullstack/index.php/
 *******************************************************
 1.halaman utama 
+![Halaman Utama](https://github.com/user-attachments/assets/b5106aea-8e0b-4ae5-93d3-a1efe52ba75c)
 
-![alt text](Gambar/Halaman Utama.png?raw=true)
 
 
 **********************************************************

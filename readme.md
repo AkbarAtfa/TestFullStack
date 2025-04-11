@@ -16,7 +16,7 @@ Halaman Utama http://localhost/TestFullstack/index.php/
 *******************************************************
 1.halaman utama 
 
-
+![alt text](Gambar/Halaman Utama.png?raw=true)
 
 
 **********************************************************
